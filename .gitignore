@@ -2,3 +2,5 @@
 .idea
 *.iml
 /build
+/app/build/
+/photoview/build/
